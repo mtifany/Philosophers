@@ -1,2 +1,2 @@
 # Philosophers
-Solving eating philosophers problem via multithreading
+Solving eating philosophers problem via multithreading and multiprocessing
